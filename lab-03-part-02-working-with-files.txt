@@ -198,14 +198,15 @@ scrolling through documents, viewing passages, or length.
 ==========
 21.  How many words are in pg1232.txt?  What command did you use to determine the word count?
 ----------
+wc -w pg1232.txt
 
-
-
+52639 pg1232.txt
 ==========
 22.  How many lines are in pg1232.txt?  What command did you use to determine the line count?
 ----------
+wc -l pg1232.txt
 
-
+ 5063 pg1232.txt
 ==========
 OPTIONAL
 
@@ -213,3 +214,4 @@ OPTIONAL
 
 Write the command that you used below.
 ----------
+cp *.txt ~
